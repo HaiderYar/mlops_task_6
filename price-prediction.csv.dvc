@@ -1,0 +1,5 @@
+outs:
+- md5: 55048d5f2635395eff281aeb73910de3
+  size: 633
+  hash: md5
+  path: price-prediction.csv
